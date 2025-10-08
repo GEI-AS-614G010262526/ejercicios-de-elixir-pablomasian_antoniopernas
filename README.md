@@ -15,7 +15,7 @@ lo establecido por el profesor al comienzo del cuatrimestre.
 A continuación se han de anotar los datos de los integrantes del equipo:
 
 - Masián Carro, Pablo : pablomasian : pablo.masian.carro
-- Apellido1 Apellido2, Nombre : github username : udc username
+- Pernas Gonzalez, Antonio : AntonioPernas : antonio.pernasg
 
 
 **N.B.:** Los ejercicios no recibirán ninguna corrección si los datos
